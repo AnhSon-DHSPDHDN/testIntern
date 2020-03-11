@@ -1,0 +1,25 @@
+canvas{
+    margin: auto;
+    width: 350px;
+    height: 350px;
+    background: black;
+    display: block;
+}
+.score{
+    margin: 10px 0;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+.btn{
+    margin-bottom: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.active{
+    background: chartreuse;
+}

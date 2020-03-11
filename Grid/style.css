@@ -1,0 +1,29 @@
+.container{
+    width: max-content;
+}
+.col{
+    width: max-content;
+    display: flex;
+}
+.row{
+    border: 1px solid black;
+    color: black;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    font-size: 10px;
+}
+.header{
+    width: max-content;
+}
+
+.stt{
+    border: 1px solid black;
+    color: black;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+    font-size: 10px;
+    background: chartreuse;
+    cursor: pointer;
+}
